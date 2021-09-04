@@ -23,6 +23,15 @@ Object.values(webpackJsonp.push([
     ]
 ]).cache).find(m => m.exports && m.exports.default && m.exports.default.getCurrentUser !== void 0).exports.default.getCurrentUser().flags = -1
 ```
+### Share Screen 1080p without nitro
+```bash
+BdApi.findModuleByProps("getCurrentUser").getCurrentUser().premiumType = 2;
+```
+### Active Beta tests
+```bash
+webpackJsonp.push([[999],{"l":(m,e,r)=>{for(k in r.c)(m=r.c[k].exports)&&m.default&&m.default.isDeveloper==0&&Object.defineProperty(m.default,"isDeveloper",{get:()=>1})}},[["l"]]]);
+```
+
 ### different perms on the number -1 will change what flag u have 
 ```bash 
 -1  all flags 

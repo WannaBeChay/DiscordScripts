@@ -545,8 +545,6 @@ var d = u({
 
 
 ### Get Status
-<a href=""><img src="https://imgur.com/mCVaVmA.jpg" style="max-width:100%;"></a>
-
 ```bash
 Object.values(webpackJsonp.push([
     [], {

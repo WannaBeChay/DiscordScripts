@@ -31,6 +31,9 @@ BdApi.findModuleByProps("getCurrentUser").getCurrentUser().premiumType = 2;
 ```bash
 webpackJsonp.push([[999],{"l":(m,e,r)=>{for(k in r.c)(m=r.c[k].exports)&&m.default&&m.default.isDeveloper==0&&Object.defineProperty(m.default,"isDeveloper",{get:()=>1})}},[["l"]]]);
 ```
+### Active Beta tests 2022
+```bash
+Object.defineProperty((webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.isDeveloper!==void 0).exports.default,"isDeveloper",{get:()=>true});```
 
 ### different perms on the number -1 will change what flag u have 
 ```bash 

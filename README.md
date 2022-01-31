@@ -1,4 +1,4 @@
-###ALERT SOME SCRIPTS DON'T WORK MORE!###
+### ALERT SOME SCRIPTS DON'T WORK MORE! ###
 # Discord-Client-Side-Scripts-Docs
 
 - Requires a Console Out put that Runs Func, {inspect element Console, etc}
